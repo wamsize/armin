@@ -1,0 +1,18 @@
+{
+    "remotePath": "../../Applications/MAMP/htdocs/armin/",
+    "host": "localhost",
+    "username": "samwise",
+    "password": "wondering",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.gitignore",
+        "\\README.md"
+    ]
+}
