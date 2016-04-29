@@ -1,8 +1,8 @@
 {
-    "remotePath": "../../Applications/MAMP/htdocs/armin/",
-    "host": "localhost",
-    "username": "samwise",
-    "password": "wondering",
+    "remotePath": "./",
+    "host": "ftp.upcloseads.com",
+    "username": "main@upcloseads.com",
+    "password": "Proverbs31:8-9",
     "port": 21,
     "protocol": "ftp",
     "uploadOnSave": true,
@@ -11,8 +11,6 @@
     "privateKeyPath": null,
     "ignore": [
         "\\.vscode",
-        "\\.git",
-        "\\.gitignore",
-        "\\README.md"
+        "\\.git"
     ]
 }

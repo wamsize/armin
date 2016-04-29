@@ -20,7 +20,8 @@ width: 100vw;
 height: 100vh;
 }  */
 
-.ad {
+.ad, .next {
+	position: absolute;
 	margin: 0;
 	width: 100vw;
 	height: 100vh;
@@ -28,4 +29,11 @@ height: 100vh;
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-color: green;
+}
+
+.next {
+	left: 100vw;
+	top: 0;
+	background-color: white;
+	z-index: 5;
 }
